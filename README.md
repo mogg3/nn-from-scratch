@@ -1,5 +1,8 @@
 # NNFromScratch
 (in progress)
 
-Basic FFNN(feed forward neural net) implementation from scratch in python (self educational purposes)
+Basic feed forwards neural network implementation from scratch in python.
+
+For self educational purposes.
+
 
